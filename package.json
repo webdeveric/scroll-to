@@ -4,6 +4,7 @@
   "description": "Scroll to an element",
   "main": "lib/scroll-to.js",
   "files": [
+    "src/",
     "lib/scroll-to.js"
   ],
   "scripts": {
