@@ -20,5 +20,9 @@ scrollTo(
 ```
 
 ```html
-<a href="#some-element" data-scroll-to="#some-element" data-scroll-duration="1000" data-scroll-offset="0">Click Me</a>
+<a href="#some-element"
+  data-scroll-to="#some-element"
+  data-scroll-duration="1000"
+  data-scroll-offset="0"
+>Click Me</a>
 ```
