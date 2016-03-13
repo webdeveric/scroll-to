@@ -5,7 +5,8 @@
   "main": "lib/scroll-to.js",
   "files": [
     "src/",
-    "lib/scroll-to.js"
+    "lib/scroll-to.js",
+    ".babelrc"
   ],
   "scripts": {
     "babel": "babel src --out-dir lib --compact",
